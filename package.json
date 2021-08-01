@@ -1,0 +1,18 @@
+{
+  "name": "Alpha_HealthHub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-typical": "^0.1.3",
+    "typewriter-effect": "^2.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
